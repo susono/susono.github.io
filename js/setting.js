@@ -18,6 +18,21 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* susono cofog */
+  '20140100': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },/* 福祉の充実のために */
+
+
+
+
+  '20140504': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#935B3B' },/* 幼稚園費 */
+
+
+
+  '20140701': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' },/* 農業費 */
+
+
+
+  
+  
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
