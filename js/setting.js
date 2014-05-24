@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Icons for COFOG taxonomy
  *
  */
