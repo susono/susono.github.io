@@ -20,14 +20,23 @@ OpenSpending.Styles.Cofog = {
   /* susono cofog */
   '20140100': { icon: 'icons/helping-others.svg', color: '#18c516', bcolor: '#935B3B' },/* 福祉の充実のために */
   '20140101': { icon: 'icons/helping-others.svg', color: '#18C516', bcolor: '#935B3B' },/* 社会福祉費 */
-
+  '20140102': { icon: 'icons/c_kosodate_shien.svg', color: '#18C516', bcolor: '#935B3B' },/* 児童福祉費 */
+  '20140103': { icon: 'icons/c_yougo.svg', color: '#18C516', bcolor: '#935B3B' },/* 生活保護費 */
+  '20140104': { icon: 'icons/restoration.svg', color: '#18C516', bcolor: '#935B3B' },/* 災害救助費 */
+  '20140200': { icon: 'icons/waste.svg', color: '#18C516', bcolor: '#935B3B' },/* 衛生のために */
+  '20140201': { icon: 'icons/health.svg', color: '#18C516', bcolor: '#935B3B' },/* 保健衛生費 */
+  '20140202': { icon: 'icons/waste.svg', color: '#18C516', bcolor: '#935B3B' },/* 清掃費 */
   '20140300': { icon: 'icons/misc-services.svg', color: '#18C516', bcolor: '#935B3B' },/* 総務費として */
-  '20140301': { icon: 'icons/misc-services.svg', color: '#18C516', bcolor: '#935B3B' },/* 総務費として */
+  '20140301': { icon: 'icons/misc-services.svg', color: '#18C516', bcolor: '#935B3B' },/* 総務管理費 */
+  '20140302': { icon: 'icons/money.svg', color: '#18C516', bcolor: '#935B3B' },/* 徴税費 */
+  '20140303': { icon: 'icons/publicaffairs.svg', color: '#18C516', bcolor: '#935B3B' },/* 戸籍住民基本台帳費 */
   '20140304': { icon: 'icons/helping-others.svg', color: '#18C516', bcolor: '#935B3B' },/* 選挙費 */
-
+  '20140305': { icon: 'icons/admin.svg', color: '#18C516', bcolor: '#935B3B' },/* 統計調査費 */
+  '20140306': { icon: 'icons/civilian-action.svg', color: '#18C516', bcolor: '#935B3B' },/* 監査委員費 */
+  '20140307': { icon: 'icons/police2.svg', color: '#18C516', bcolor: '#935B3B' },/* 市民安全対策費 */
+  '20140308': { icon: 'icons/communication.svg', color: '#18C516', bcolor: '#935B3B' },/* 放送施設費 */
   '20140400': { icon: 'icons/japanese-money.svg', color: '#18C516', bcolor: '#935B3B' },/* 借金の返済に */
   '20140401': { icon: 'icons/japanese-money.svg', color: '#18C516', bcolor: '#935B3B' },/* 公債費 */
-
   '20140500': { icon: 'icons/schools.svg', color: '#18C516', bcolor: '#935B3B' },/* 教育のために */
   '20140501': { icon: 'icons/human-resources.svg', color: '#18C516', bcolor: '#935B3B' },/* 教育総務費 */
   '20140502': { icon: 'icons/primary.svg', color: '#18C516', bcolor: '#935B3B' },/* 小学校費 */
@@ -35,38 +44,30 @@ OpenSpending.Styles.Cofog = {
   '20140504': { icon: 'icons/pre-school.svg', color: '#18C516', bcolor: '#935B3B' },/* 幼稚園費 */
   '20140505': { icon: 'icons/schools.svg', color: '#18C516', bcolor: '#935B3B' },/* 社会教育費 */
   '20140506': { icon: 'icons/health.svg', color: '#18C516', bcolor: '#935B3B' },/* 保健体育費 */
-
+  '20140600': { icon: 'icons/construction.svg', color: '#18C516', bcolor: '#935B3B' },/* 道路工事等に */
+  '20140601': { icon: 'icons/human-resources.svg', color: '#18C516', bcolor: '#935B3B' },/* 土木管理費 */
+  '20140602': { icon: 'icons/car.svg', color: '#18C516', bcolor: '#935B3B' },/* 道路橋梁費 */
+  '20140603': { icon: 'icons/c_sankaku_ikusei.svg', color: '#18C516', bcolor: '#935B3B' },/* 河川費 */
+  '20140604': { icon: 'icons/machi.svg', color: '#18C516', bcolor: '#935B3B' },/* 都市計画費 */
+  '20140605': { icon: 'icons/admin-housing.svg', color: '#18C516', bcolor: '#935B3B' },/* 国土調査費 */
+  '20140606': { icon: 'icons/defence.svg', color: '#18C516', bcolor: '#935B3B' },/* 演習場対策費 */
+  '20140700': { icon: 'icons/farms.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業、林業のために */
   '20140701': { icon: 'icons/farms.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業費 */
-
-
-
-  '1': { icon: 'icons/helping-others.svg', color: '#18C516', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#18C516', bcolor: '#935B3B' },
-  '2': { icon: 'icons/schools.svg', color: '#18C516', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/pre-school.svg', color: '#18C516', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/education.svg', color: '#18C516', bcolor: '#0AB971' },
-  '3': { icon: 'icons/economy-tourism.svg', color: '#18C516', bcolor: '#4E6D00' },
-  '3-1': { icon: 'icons/dollar.svg', color: '#18C516', bcolor: '#4E6D00' },
-  '3-2': { icon: 'icons/harbor.svg', color: '#18C516', bcolor: '#4E6D00' },
-  '3-3': { icon: 'icons/culture.svg', color: '#18C516', bcolor: '#4E6D00' },
-  '4': { icon: 'icons/our-streets.svg', color: '#18C516', bcolor: '#D33673' },
-  '4-1': { icon: 'icons/farms.svg', color: '#18C516', bcolor: '#D33673' },
-  '4-2': { icon: 'icons/street-lights.svg', color: '#18C516', bcolor: '#D33673' },
-  '4-3': { icon: 'icons/housing.svg', color: '#18C516', bcolor: '#D33673' },
-  '5': { icon: 'icons/environment.svg', color: '#18C516', bcolor: '#2A3A03' },
-  '5-1': { icon: 'icons/tree.svg', color: '#18C516', bcolor: '#2A3A03'  },
-  '5-2': { icon: 'icons/wind.svg', color: '#18C516', bcolor: '#2A3A03'  },
-  '6': { icon: 'icons/civilian-action.svg', color: '#18C516', bcolor: '#EC2406' },
-  '6-1': { icon: 'icons/civilian-action.svg', color: '#18C516', bcolor: '#EC2406' },
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#18C516', bcolor: '#938626' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#18C516', bcolor: '#938626' },
-  '8': { icon: 'icons/government.svg', color: '#18C516', bcolor: '#18C516' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#18C516', bcolor: '#18C516' },
-  '8-2': { icon: 'icons/government.svg', color: '#18C516', bcolor: '#18C516' },
-  '9': { icon: 'icons/garbage.svg', color: '#18C516', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#18C516', bcolor: '#D33673' },
-  '10': { icon: 'icons/order-safety.svg', color: '#18C516', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#18C516', bcolor: '#790586' }
+  '20140702': { icon: 'icons/tree.svg', color: '#18C516', bcolor: '#935B3B' },/* 林業費 */
+  '20140703': { icon: 'icons/tree.svg', color: '#18C516', bcolor: '#935B3B' },/* 林業費 */
+  '20140800': { icon: 'icons/c_syoukougyou.svg', color: '#18C516', bcolor: '#935B3B' },/* 商業、工業のために */
+  '20140801': { icon: 'icons/c_syoukougyou.svg', color: '#18C516', bcolor: '#935B3B' },/* 商工費 */
+  '20140900': { icon: 'icons/c_shyoubou.svg', color: '#18C516', bcolor: '#935B3B' },/* 消防のために */
+  '20140901': { icon: 'icons/c_shyoubou.svg', color: '#18C516', bcolor: '#935B3B' },/* 消防費 */
+  '20141000': { icon: 'icons/civilian-action.svg', color: '#18C516', bcolor: '#935B3B' },/* 議会運営 */
+  '20141001': { icon: 'icons/civilian-action.svg', color: '#18C516', bcolor: '#935B3B' },/* 議会費 */
+  '20141100': { icon: 'icons/publicaffairs.svg', color: '#18C516', bcolor: '#935B3B' },/* その他 */
+  '20141101': { icon: 'icons/misc-services.svg', color: '#18C516', bcolor: '#935B3B' },/* 労働費 */
+  '20141102': { icon: 'icons/restoration.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業水産施設災害復旧費 */
+  '20141103': { icon: 'icons/restoration.svg', color: '#18C516', bcolor: '#935B3B' },/* 公共土木施設災害復旧費 */
+  '20141104': { icon: 'icons/money.svg', color: '#18C516', bcolor: '#935B3B' },/* 普通財産購入費 */
+  '20141105': { icon: 'icons/japanese-money.svg', color: '#18C516', bcolor: '#935B3B' },/* 基金費 */
+  '20141106': { icon: 'icons/transfers.svg', color: '#18C516', bcolor: '#935B3B' },/* 特別会計繰出金 */
+  '20141107': { icon: 'icons/pig.svg', color: '#18C516', bcolor: '#935B3B' },/* 予備費 */
 };
-
 
