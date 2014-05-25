@@ -64,7 +64,7 @@ OpenSpending.Styles.Cofog = {
   '20141100': { icon: 'icons/publicaffairs.svg', color: '#18C516', bcolor: '#935B3B' },/* その他 */
   '20141101': { icon: 'icons/misc-services.svg', color: '#18C516', bcolor: '#935B3B' },/* 労働費 */
   '20141102': { icon: 'icons/restoration.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業水産施設災害復旧費 */
-  '20141103': { icon: 'icons/restoration.svg', color: '#18C516', bcolor: '#935B3B' },/* 公共土木施設災害復旧費 */
+  '20141103': { icon: 'icons/prirodne_nepogode.svg', color: '#18C516', bcolor: '#935B3B' },/* 公共土木施設災害復旧費 */
   '20141104': { icon: 'icons/money.svg', color: '#18C516', bcolor: '#935B3B' },/* 普通財産購入費 */
   '20141105': { icon: 'icons/japanese-money.svg', color: '#18C516', bcolor: '#935B3B' },/* 基金費 */
   '20141106': { icon: 'icons/transfers.svg', color: '#18C516', bcolor: '#935B3B' },/* 特別会計繰出金 */
