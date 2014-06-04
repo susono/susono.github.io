@@ -50,11 +50,11 @@ OpenSpending.Styles.Cofog = {
   '20140603': { icon: 'icons/c_sankaku_ikusei.svg', color: '#18C516', bcolor: '#935B3B' },/* 河川費 */
   '20140604': { icon: 'icons/machi.svg', color: '#18C516', bcolor: '#935B3B' },/* 都市計画費 */
   '20140605': { icon: 'icons/admin-housing.svg', color: '#18C516', bcolor: '#935B3B' },/* 国土調査費 */
-  '20140606': { icon: 'icons/defence.svg', color: '#18C516', bcolor: '#935B3B' },/* 演習場対策費 */
+  '20140606': { icon: 'icons/housing.svg', color: '#18C516', bcolor: '#935B3B' },/* 住宅費 */
   '20140700': { icon: 'icons/farms.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業、林業のために */
   '20140701': { icon: 'icons/farms.svg', color: '#18C516', bcolor: '#935B3B' },/* 農業費 */
   '20140702': { icon: 'icons/tree.svg', color: '#18C516', bcolor: '#935B3B' },/* 林業費 */
-  '20140703': { icon: 'icons/tree.svg', color: '#18C516', bcolor: '#935B3B' },/* 林業費 */
+  '20140703': { icon: 'icons/defence.svg', color: '#18C516', bcolor: '#935B3B' },/* 演習場対策費 */
   '20140800': { icon: 'icons/c_syoukougyou.svg', color: '#18C516', bcolor: '#935B3B' },/* 商業、工業のために */
   '20140801': { icon: 'icons/c_syoukougyou.svg', color: '#18C516', bcolor: '#935B3B' },/* 商工費 */
   '20140900': { icon: 'icons/c_shyoubou.svg', color: '#18C516', bcolor: '#935B3B' },/* 消防のために */
