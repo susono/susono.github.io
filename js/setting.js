@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'susono_2014_budget';
+OpenSpending.identifier = 'susono_2015_budget';
 OpenSpending.year = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
